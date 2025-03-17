@@ -16,5 +16,4 @@ datasource db {
 model Teste_axios {
   id         String   @id @default(uuid())
   nome  String
-
 }
